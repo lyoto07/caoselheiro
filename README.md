@@ -27,4 +27,4 @@ git clone git@github.com:lyoto07/caoselheiro.git
 
 ### Executar
 
-- Basta clicar duas vezes sobr eo arquivo com logo do navegador
+- Abrir o arquivo .html
